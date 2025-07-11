@@ -18,11 +18,11 @@ description: Nice projects that use FlightRadarAPI
 
     By Adeleke Coker, Frank Song, Greg Chi, from University of California (UC), Berkeley, School of Information
 
--   [__Flight Tracker with Weather__](https://magpi.raspberrypi.com/articles/flight-tracker-with-weather)
+-   [__Flight Tracker with Weather__](https://github.com/c0wsaysmoo/plane-tracker-rgb-pi)
 
     ---
 
-     By Adam Paulson, a Reddit user going by the name C0wsaysmoo
+     By Adam Paulson, a Reddit user going by the name Fit-Garbage-2259
 
 -   [__Design and implementation project of an aircraft mobile node module for the SeamSAT-LEO constellation simulator__](https://upcommons.upc.edu/bitstream/handle/2117/394691/TFG.pdf?sequence=2&isAllowed=y)
 
